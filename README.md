@@ -1,23 +1,23 @@
-## 👋 Hello there, fellow programmer!  
+## Hello!
 Welcome to my GitHub I guess. I'm glad you found your way here.
 
 
 ### 🌟 About Me
-- 🎓 Graduated from **San Francisco State University** with a **B.S. in Computer Science**
-- 💻 Currently studying for my **CompTIA A+ certification**
-- 🧠 On a path toward becoming a **Software Engineer** (starting from IT ofc)  
-- 🎮 Huge fan of **Tetris** and a rhythm gamer currently obsessed with **Dance Dance Revolution**
+- Graduated from SFSU with a B.S. in Compsci
+- Huge fan of Tetris, and I'm also rhythm gamer currently obsessed with Dance Dance Revolution
+- I'm also CompTIA A+ certified (heck yeah!)
 
 
 ### 🚀 What I'm Working On
-- 🧩 Building my **personal portfolio site** with **React.js + Vite**  
-- 🧮 Solving **LeetCode** problems to sharpen my algorithms  
-- 📘 Working towards my **CompTIA A+**
+- Coding a personal portfolio site
+- Leetcoding
+- Studying for my Sec+
 
 
 ### 💾 Past Projects
-- ☕ **Coffee Spot** — An app that helps students find great third spaces for studying and hanging out  
-- 💬 **Chat App** — A real-time chat application built with **React (CRA)**, **Python FastAPI**, and **WebSockets**
+ **Coffee Spot**: An app that helps students find great third spaces for studying and hanging out
+- **Chat App**: A real-time chat application built with React (CRA), Python FastAPI, and WebSockets
+- Did I mention I also have a Homelab?
 
 
 ### 🧰 Tech Stacks I've Used Recently  
